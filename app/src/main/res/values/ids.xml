@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="post_deksripsion" type="id" />
+    <item name="post_publisher" type="id" />
+    <item name="post_likes" type="id" />
+    <item name="imageView2" type="id" />
+    <item name="postt_image_comment_button" type="id" />
+    <item name="post_image_post" type="id" />
+    <item name="circleImageView" type="id" />
+    <item name="home_RecylerView" type="id" />
+</resources>
